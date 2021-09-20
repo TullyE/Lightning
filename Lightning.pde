@@ -4,7 +4,6 @@ void setup()
 {
   size(500,500);
   strokeWeight(5);
-
   color(5);
   stroke(255);
   background(25);
