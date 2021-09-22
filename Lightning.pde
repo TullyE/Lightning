@@ -20,7 +20,7 @@ void setup()
       if((int) (Math.random() * 5) == 0)
       {
           stars[i][j] = true;
-          circle(i, j, 5);
+          ellipse(i, j, 5, 5);
       }
     }
   }
