@@ -70,7 +70,7 @@ void sky()
     {
       if(stars[i][j])
       {
-        circle(i, j, 5);
+        ellipse(i, j, 5, 5);
       }
     }
   }
