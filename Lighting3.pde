@@ -76,3 +76,4 @@ int[] pickStar()
   System.out.println("IS BAD");
   return new int[]{width/2, height/2};
 }
+//updated
